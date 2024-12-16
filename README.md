@@ -160,8 +160,3 @@ WHERE t1.industry IS NULL AND t2.industry IS NOT NULL;
 ```sql
 ALTER TABLE layoffs_staging2 DROP COLUMN row_num;
 
-### final output
-After completing all transformations, the dataset is cleaned, standardized, and ready for analysis.
-
-```sql
-SELECT * FROM layoffs_staging2;
