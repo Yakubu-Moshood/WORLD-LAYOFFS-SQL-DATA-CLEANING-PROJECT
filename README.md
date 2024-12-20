@@ -22,6 +22,10 @@ The COVID-19 pandemic profoundly impacted the global economy, and the tech indus
 
 - Highlight key metrics like maximum layoffs, total layoffs by country, and rolling trends.
 
+## 📊 Dataset Details
+- Source: Kaggle: Tech Layoffs Dataset
+- Contents: Details on layoffs, including companies, industries, dates, locations, funding, stages, .
+
 ## Project Structure
 
 ### Remove Duplicates
