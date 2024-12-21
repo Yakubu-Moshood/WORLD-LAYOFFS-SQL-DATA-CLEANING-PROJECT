@@ -20,7 +20,7 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 - Dataset: Tech Layoffs Dataset
 - Source: Kaggle: Tech Layoffs Dataset
 - Contents: Details on layoffs, including Company, Location_HQ, Industry, Laid_Off_Count, Date, Source, Funds_Raised, Stage, Date_Added, Country, Percentage, List_of_Employees_Laid_Off
-- The cleaned dataset is available 
+- The original dataset is available : [layoffsdataset](layoffs_data.csv)
 
 
 ## 🛠️ Process
@@ -56,7 +56,7 @@ January 2023 saw 13.43% of layoffs, with 2023 recording the highest annual layof
 Amazon (27,840), Meta (21,000), and Tesla (14,500) led layoffs.
 Layoffs peaked in 2023 (+40.17% YoY) but declined sharply in 2024 (-63.69%), signaling recovery.
 
-- The detailed project structure and breakdown can be found in the file:: [Project Structure for WORLD TECH LAYOFFS.txt](https://github.com/Yakubu-Moshood/WORLD-LAYOFFS-SQL-DATA-CLEANING-PROJECT/blob/main/Project%20Structure%20for%20WORLD%20TECH%20LAYOFFS.txt)
+- The detailed project structure and breakdown can be found in the file: [Project Structure for WORLD TECH LAYOFFS.txt](https://github.com/Yakubu-Moshood/WORLD-LAYOFFS-SQL-DATA-CLEANING-PROJECT/blob/main/Project%20Structure%20for%20WORLD%20TECH%20LAYOFFS.txt)
 
 
 💡 Insights at a Glance
