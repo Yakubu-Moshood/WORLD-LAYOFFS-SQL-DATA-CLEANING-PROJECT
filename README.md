@@ -54,7 +54,8 @@ The U.S. dominated layoffs (367,830; 69.66%), with India (8.93%) and Germany (4.
 January 2023 saw 13.43% of layoffs, with 2023 recording the highest annual layoffs (40.26%).
 Amazon (27,840), Meta (21,000), and Tesla (14,500) led layoffs.
 Layoffs peaked in 2023 (+40.17% YoY) but declined sharply in 2024 (-63.69%), signaling recovery.
-- The entire sql queries used for this analysis can be found here 
+
+- The entire sql queries used for this analysis can be found [here]((https://github.com/Yakubu-Moshood/WORLD-LAYOFFS-SQL-DATA-CLEANING-PROJECT/blob/main/%23%23%20Project%20Structure%20for%20WORLD%20TECH%20LAYOFFS.txt))
 
 💡 Insights at a Glance
 
