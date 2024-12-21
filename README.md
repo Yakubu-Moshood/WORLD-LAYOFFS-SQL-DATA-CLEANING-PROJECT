@@ -1,7 +1,11 @@
 # Tech Layoffs Post-COVID: A Comprehensive SQL Analysis (2020-2024)
 
 
-## 🎯 Objectives
+## 🎯 Objectives 
+This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL to uncover key patterns and insights. It identifies trends such as peak layoff periods, and most affected industries, companies, and countries while enabling a better understanding of the post-COVID impact on workforce dynamics. The ultimate goal is to provide actionable insights for workforce management. 
+
+### KEY COMPONENTS
+
 ### Data Cleaning and Standardization:
 - Address duplicates, null values, and inconsistent formatting for accurate analysis.
   
