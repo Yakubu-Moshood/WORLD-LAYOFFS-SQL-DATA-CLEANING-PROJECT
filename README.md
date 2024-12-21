@@ -108,7 +108,15 @@ These figures underscore the significant workforce adjustments among leading tec
 | 2024 | 77194         | 212585                | -135391       | -63.69%               |
 
 
+## Conclusion 
 
+The analysis of tech industry layoffs from 2020 to 2024 reveals significant workforce disruptions driven by post-COVID challenges. Retail, Consumer, and Transportation emerged as the hardest-hit industries, collectively accounting for over 35% of all layoffs. The United States led globally with 69.66% of layoffs, far outpacing India (8.93%) and Germany (4.80%).
+
+January 2023 marked the peak layoff period, contributing 13.43% of all layoffs, with 2023 being the most challenging year overall (40.26% of total layoffs). Companies like Amazon, Meta, and Tesla led workforce reductions, highlighting widespread adjustments among tech giants. While layoffs spiked sharply in 2022 (+859.25%) and 2023 (+40.17%), the decline in 2024 (-63.69%) signals a gradual recovery in the tech industry.
+
+These findings underscore the need for targeted workforce management strategies and proactive measures to foster industry resilience.
+
+For detailed breakdowns and SQL queries, visit [sqlqueries](https://github.com/Yakubu-Moshood/WORLD-LAYOFFS-SQL-DATA-CLEANING-PROJECT/blob/main/Project%20Structure%20for%20WORLD%20TECH%20LAYOFFS%20PROJECT.txt)
 
 
 
