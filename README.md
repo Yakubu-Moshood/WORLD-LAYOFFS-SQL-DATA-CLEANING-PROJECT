@@ -59,6 +59,7 @@ Layoffs peaked in 2023 (+40.17% YoY) but declined sharply in 2024 (-63.69%), sig
 - The detailed project structure and breakdown can be found in the file: 
 
 
+
 💡 Insights at a Glance
 
 ### 1️⃣ Industries Most Affected
