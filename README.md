@@ -20,7 +20,8 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 - Dataset: Tech Layoffs Dataset
 - Source: Kaggle: Tech Layoffs Dataset
 - Contents: Details on layoffs, including Company, Location_HQ, Industry, Laid_Off_Count, Date, Source, Funds_Raised, Stage, Date_Added, Country, Percentage, List_of_Employees_Laid_Off
-- The cleaned dataset is available here.
+- The cleaned dataset is available [Link Text](URL)
+
 
 ## 🛠️ Process
 
