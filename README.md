@@ -25,7 +25,7 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 
 ## 🛠️ Process
 
-### 1️⃣ Data Cleaning
+### 1️⃣ 💧Data Cleaning
 
 **Used SQL operations to**:
 
@@ -33,12 +33,12 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 - Standardize inconsistent entries (TRIM, replacement of special characters).
 - Handle null values by replacing or removing redundant records.
   
-### 2️⃣ Data Transformation
+### 2️⃣ 🌀Data Transformation
 
 - Converted columns to appropriate data types (e.g., dates, numeric formats).
 - Aggregated data by regions, industries, and funding stages.
   
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️⃣ 🔍Exploratory Data Analysis (EDA)
 
 - Identified trends using SQL functions:
 - Rolling totals (SUM() OVER()).
@@ -46,7 +46,7 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 - Year-over-year comparisons and percentage calculations.
 
 
-## EXECUTIVE SUMMARY 
+## 📈EXECUTIVE SUMMARY 
 
 The Tech Layoffs Analysis (2020-2024) highlights major trends in workforce reductions across industries, Countries, and companies post-COVID.
 
@@ -60,7 +60,7 @@ Layoffs peaked in 2023 (+40.17% YoY) but declined sharply in 2024 (-63.69%), sig
 
 
 
-💡 Insights at a Glance
+## 💡 Insights at a Glance
 
 ### 1️⃣ Industries Most Affected
 
