@@ -108,7 +108,7 @@ These figures underscore the significant workforce adjustments among leading tec
 | 2024 | 77194         | 212585                | -135391       | -63.69%               |
 
 
-## Conclusion 
+## 📌Conclusion 
 
 The analysis of tech industry layoffs from 2020 to 2024 reveals significant workforce disruptions driven by post-COVID challenges. Retail, Consumer, and Transportation emerged as the hardest-hit industries, collectively accounting for over 35% of all layoffs. The United States led globally with 69.66% of layoffs, far outpacing India (8.93%) and Germany (4.80%).
 
