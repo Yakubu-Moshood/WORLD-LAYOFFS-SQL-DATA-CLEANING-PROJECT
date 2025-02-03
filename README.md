@@ -1,8 +1,30 @@
 # Tech Layoffs Post-COVID: A Comprehensive SQL Analysis (2020-2024)
 
+## Table of Contents
+1. [🎯 Objectives](#-objectives)
+2. [📂 Data Source](#-data-source)
+3. [🛠️ Process](#️-process)
+    - [1️⃣ Data Cleaning](#1️⃣-💧data-cleaning)
+    - [2️⃣ Data Transformation](#2️⃣-🌀data-transformation)
+    - [3️⃣ Exploratory Data Analysis (EDA)](#3️⃣-🔍exploratory-data-analysis-eda)
+4. [📈 Executive Summary](#-executive-summary)
+    - [Key Findings](#key-findings)
+    - [Peak Layoff Period](#peak-layoff-period)
+5. [💡 Insights at a Glance](#-insights-at-a-glance)
+    - [Industries Most Affected](#1️⃣-industries-most-affected)
+    - [Country Trends](#2️⃣-country-trends)
+    - [Peak Layoff Period](#3️⃣-peak-layoff-period)
+    - [Companies with Maximum Layoffs](#4️⃣-companies-with-maximum-layoffs)
+6. [🔑 Key Metrics](#-key-metrics)
+7. [📌 Conclusion](#-conclusion)
+8. [🔗 Additional Resources](#-additional-resources)
+
+---
 
 ## 🎯 Objectives 
 This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL to uncover key patterns and insights. It identifies trends such as peak layoff periods, and most affected industries, companies, and countries while enabling a better understanding of the post-COVID impact on workforce dynamics. The ultimate goal is to provide actionable insights for workforce management. 
+
+---
 
 ### KEY COMPONENTS
 
@@ -16,12 +38,15 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 ### Insight Delivery:
 - Highlight actionable patterns, such as resilience in certain industries and regions.
 
+---
+
 ## 📂 Data Source
 - Dataset: Tech Layoffs Dataset
 - Source: Kaggle: Tech Layoffs Dataset
 - Contents: Details on layoffs, including Company, Location_HQ, Industry, Laid_Off_Count, Date, Source, Funds_Raised, Stage, Date_Added, Country, Percentage, List_of_Employees_Laid_Off
 - The original dataset is available : [layoffsdataset](layoffs_data.csv)
 
+---
 
 ## 🛠️ Process
 
@@ -45,6 +70,7 @@ This project aims to analyze tech industry layoffs from 2020 to 2024 using SQL t
 - Ranking (DENSE_RANK, ROW_NUMBER).
 - Year-over-year comparisons and percentage calculations.
 
+---
 
 ## 📈EXECUTIVE SUMMARY 
 
@@ -58,9 +84,10 @@ Layoffs peaked in 2023 (+40.17% YoY) but declined sharply in 2024 (-63.69%), sig
 
 - The detailed project structure and breakdown can be found in the file: [sqlqueries](https://github.com/Yakubu-Moshood/WORLD-LAYOFFS-SQL-DATA-CLEANING-PROJECT/blob/main/Project%20Structure%20for%20WORLD%20TECH%20LAYOFFS%20PROJECT.txt)
 
-
+---
 
 ## 💡 Insights at a Glance
+
 
 ### 1️⃣ Industries Most Affected
 
@@ -76,12 +103,13 @@ The United States led globally, with 367,830 employees laid off, making up 69.66
 
 Following in a very distant second is India, with 47,127 which is 8.93% of total layoffs. 
 
-GERMANY rounds up the top 3, laying off 25,345 employees totaling 4.80% of layoffs.
+GERMANY rounds up the top 3, laying off 25,345 employees, totaling 4.80% of layoffs.
   
 ### 3️⃣ Peak Layoff Period
 The peak layoff month was January 2023, when 70,935 (13.43%) employees were freed of their jobs. This may have been driven by company restructuring after the holiday season. 
 
 The Year 2023 in general has a total of 212,585 laid off which is 40.26% of the total layoffs making it the year with the highest layoffs in years starting from 2020 to 2024
+
 
 ### 4️⃣ Companies with Maximum Layoffs
 
@@ -92,7 +120,6 @@ Following closely is Meta, which laid off 21,000 employees, representing 3.98% o
 Tesla is next. It also faced substantial reductions, cutting 14,500 jobs, accounting for 2.75% of total layoffs. 
 
 These figures underscore the significant workforce adjustments among leading tech companies during this period.
-
 
 ### 🔑 Key Metrics
 
@@ -107,6 +134,7 @@ These figures underscore the significant workforce adjustments among leading tec
 | 2023 | 212585        | 151657                | 60928         | 40.17%                |
 | 2024 | 77194         | 212585                | -135391       | -63.69%               |
 
+---
 
 ## 📌Conclusion 
 
